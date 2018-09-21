@@ -1,0 +1,24 @@
+TraceEvent:	Verbose  : 09/21/2018 11:53:09
+TraceEvent:	Verbose  : Validating specified root directories.
+TraceEvent:	Verbose  : Adding specified solutions.
+TraceEvent:	Verbose  : The solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" with full path "D:\VmwareHardenedLoader\hidden\Hidden.sln" was added to the list of solutions to upgrade.
+TraceEvent:	Verbose  : Adding solutions found under the specified root directories.
+TraceEvent:	Verbose  : Adding specified projects.
+TraceEvent:	Verbose  : Adding projects found under the specified solutions.
+TraceEvent:	Verbose  : The project with full path "D:\VmwareHardenedLoader\hidden\Hidden\Hidden.vcxproj" was referenced by solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : The project with full path "D:\VmwareHardenedLoader\hidden\Hidden Package\Hidden Package.vcxproj" was referenced by solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : The project with full path "D:\VmwareHardenedLoader\hidden\HiddenLib\HiddenLib.vcxproj" was referenced by solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : The project with full path "D:\VmwareHardenedLoader\hidden\HiddenCLI\HiddenCLI.vcxproj" was referenced by solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : The project with full path "D:\VmwareHardenedLoader\hidden\HiddenTests\HiddenTests.vcxproj" was referenced by solution "D:\VmwareHardenedLoader\hidden\Hidden.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : Adding projects found under the specified root directories.
+TraceEvent:	Information  : Upgrading projects.
+TraceEvent:	Information  : Backup created at: D:\VmwareHardenedLoader\hidden\Hidden\Hidden.vcxproj.backup.
+TraceEvent:	Information  : Upgrading project "D:\VmwareHardenedLoader\hidden\Hidden\Hidden.vcxproj".
+TraceEvent:	Information  : Upgrade complete for project "D:\VmwareHardenedLoader\hidden\Hidden\Hidden.vcxproj".
+TraceEvent:	Information  : Backup created at: D:\VmwareHardenedLoader\hidden\Hidden Package\Hidden Package.vcxproj.backup.
+TraceEvent:	Information  : Upgrading project "D:\VmwareHardenedLoader\hidden\Hidden Package\Hidden Package.vcxproj".
+TraceEvent:	Information  : Upgrade complete for project "D:\VmwareHardenedLoader\hidden\Hidden Package\Hidden Package.vcxproj".
+TraceEvent:	Information  : Project file "D:\VmwareHardenedLoader\hidden\HiddenLib\HiddenLib.vcxproj" is not a WDK project. Skipping project file.
+TraceEvent:	Information  : Project file "D:\VmwareHardenedLoader\hidden\HiddenCLI\HiddenCLI.vcxproj" is not a WDK project. Skipping project file.
+TraceEvent:	Information  : Project file "D:\VmwareHardenedLoader\hidden\HiddenTests\HiddenTests.vcxproj" is not a WDK project. Skipping project file.
+TraceEvent:	Information  : Projects upgraded.
